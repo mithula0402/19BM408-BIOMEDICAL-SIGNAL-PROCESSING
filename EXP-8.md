@@ -23,7 +23,7 @@ h(n)=h_d (n)⋅w(n)
 Where hd(n) is ideal impulse response.
 
 # ALGORITHM:
-1.	Choose N and ωc
+1.	Choose N and ωc 
 2.	Compute ideal impulse response
 3.	Generate Hamming window
 4.	Multiply and obtain h(n)
